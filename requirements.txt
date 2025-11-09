@@ -1,0 +1,11 @@
+# ============================
+# Requirements for Simple Password Generator
+# ============================
+
+# 🔹 Core Dependencies
+# (No external dependencies required — uses Python standard library)
+# Python 3.7 or above
+
+# 🔹 Optional Dependencies
+pyperclip   # For clipboard copy functionality (optional)
+pytest      # For running test cases (optional)
